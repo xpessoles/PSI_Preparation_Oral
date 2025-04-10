@@ -1,0 +1,21 @@
+* Simulation
+* Savoir tracer une réponse temporelle
+* Savoir tracer une réponse fréquentielle
+* Savoir modifier une valeur
+* Savoir modifier un schéma blocs
+
+* Analyser un hyperstatisme (SW)
+* Tracer une loi entrée/sorte (SW)
+* Analyser une courbe (SW .)
+
+
+* Expérimentation
+ * Savoir identifier un ordre 1
+ * Savoir identifier un ordre 2
+ * Savoir faire une chaine fonctionnelle
+ * Connaitre le fonctionnement des capteurs
+ * Connaitre le MCC
+ * Comprendre des courbes de moteurs
+ * Comparatif moteurs
+ * Protocoles expérimentaux
+ * Repérer, analyser comprendre une non linéarité

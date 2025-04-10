@@ -1,0 +1,17 @@
+﻿Identification ordre 1
+Identification ordre 2
+
+Détermination de J d'une pièce qq
+
+Détermination de frottement visqueux
+ * mise en pendulation
+ * vitesse différentes
+ * rampe de vitesse ?
+
+
+Détermination du frottement sec
+ * tension de seuil 
+
+
+Détermination des caractéristiques d'un moteur à courant continu
+
