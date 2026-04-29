@@ -26,7 +26,7 @@ Notebook :
  * Filtrage
  * Dichotomie / Newton
  * Moindre carrés
- * IA (Plateforme 6 axes et/ou robot 4 axes, correcteurs)
+ * IA (Plateforme 6 axes et/ou robot 4 axes, correcteurs à )
  
  DM : 
   * 
